@@ -1,9 +1,9 @@
 {
-  "meta_title": "TechX KE - Digital Agency",
+  "meta_title": "TechXS KE - Digital Agency",
   "meta_description": "Challenges to intuitive solutions.",
   "meta_image": {
-    "alt": "TechX KE - Digital Agency",
-    "src":"/og-image.png"
+    "alt": "TechXS KE - Digital Agency",
+    "src":"/icon.png"
   },
   "slices": [
     {
@@ -33,13 +33,13 @@
         "button": [
           {
             "text": "Let's work together",
-            "url": "mailto:techx.agency@gmail.com",
+            "url": "mailto:techxsweb@gmail.com",
             "variant": "Secondary"
           }
         ],
         "image": {
           "url": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=1200&h=800&fit=crop",
-          "alt": "TechX team working on digital solutions"
+          "alt": "TechXS team working on digital solutions"
         }
       }
     },
@@ -103,7 +103,7 @@
         "button": [
           {
             "text": "Start the conversation",
-            "url": "mailto:techx.agency@gmail.com",
+            "url": "mailto:techxsweb@gmail.com",
             "variant": "Primary"
           }
         ]

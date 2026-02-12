@@ -11,13 +11,13 @@
   ],
   "hero_image": {
     "url": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=1200&h=800&fit=crop",
-    "alt": "TechX team collaboration"
+    "alt": "TechXS team collaboration"
   },
   "content": [
     {
       "type": "paragraph",
       "content": {
-        "text": "At TechX, we don't just deliver projects — we solve problems, craft experiences, and accelerate ideas with precision. Founded by a team of innovators who believe that quality and speed can go hand-in-hand.",
+        "text": "At TechXS, we don't just deliver projects — we solve problems, craft experiences, and accelerate ideas with precision. Founded by a team of innovators who believe that quality and speed can go hand-in-hand.",
         "spans": []
       },
       "direction": "ltr"
@@ -64,15 +64,15 @@
     },
     {
       "name": "Maxwell",
-      "role": "AWS Certified Cloud Engineer",
+      "role": "AWS and Azure Certified Cloud Engineer",
       "image": { "url": "/images/team/max-chanzu.jpeg", "alt": "Maxwell - Frontend Developer" }
     }
   ],
-  "meta_title": "About | TechX KE",
-  "meta_description": "Learn more about TechX KE and our team. We build web products and designs that matter with a focus on quality and speed.",
+  "meta_title": "About | TechXS KE",
+  "meta_description": "Learn more about TechXS KE and our team. We build web products and designs that matter with a focus on quality and speed.",
   "meta_image": {
     "url": "/cote-royale-og-image.png",
-    "alt": "About TechX KE"
+    "alt": "About TechXS KE"
   },
   "slices": []
 }

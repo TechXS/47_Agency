@@ -98,7 +98,7 @@ export async function generateMetadata(): Promise<Metadata> {
 
   return {
     title: page.meta_title || "About | " + settings.site_title,
-    description: page.meta_description || "Learn more about TechX KE and our team.",
+    description: page.meta_description || "Learn more about TechXS KE and our team.",
     openGraph: {
       images: [{ url: asImageSrc(page.meta_image) ?? "" }],
     },

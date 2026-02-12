@@ -46,10 +46,10 @@ export async function generateMetadata(): Promise<Metadata> {
 
   return {
     metadataBase: new URL('https://techxs.dpdns.org'),
-    title: settings.site_title || "TechX KE - Digital Agency",
+    title: settings.site_title || "TechXS KE - Digital Agency",
     description:
       settings.meta_description ||
-      "Building Web Products & Designs That Matter. TechX KE is a digital agency specializing in modern web applications, automation, and creative design.",
+      "Building Web Products & Designs That Matter. TechXS KE is a digital agency specializing in modern web applications, automation, and creative design.",
     
     // Icons setup – Next.js auto-handles favicon.ico/icon.png/apple-icon.png if files exist,
     // but explicit is safer + supports custom paths
@@ -65,16 +65,16 @@ export async function generateMetadata(): Promise<Metadata> {
     },
 
     openGraph: {
-      title: settings.site_title || "TechX KE - Digital Agency",
+      title: settings.site_title || "TechXS KE - Digital Agency",
       description: settings.meta_description || "...",
       url: "https://techxs.dpdns.org",
-      siteName: "TechX KE",
+      siteName: "TechXS KE",
       images: [
         {
           url: ogImageUrl ??'/icon.ico',
           width: 1200,
           height: 630,
-          alt: "TechX KE - AI, Web Apps & Automation in Kenya",
+          alt: "TechXS KE - AI, Web Apps & Automation in Kenya",
         },
       ],
       locale: "en_KE",
@@ -84,7 +84,7 @@ export async function generateMetadata(): Promise<Metadata> {
     // Optional: Twitter card (similar to OG)
     twitter: {
       card: "summary_large_image",
-      title: settings.site_title || "TechX KE",
+      title: settings.site_title || "TechXS KE",
       description: settings.meta_description || "...",
       images: [ogImageUrl ?? '/icon.ico'],
     },

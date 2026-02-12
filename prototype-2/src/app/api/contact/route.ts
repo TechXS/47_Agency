@@ -18,7 +18,7 @@ export async function POST(request: Request) {
       return NextResponse.json({ error: "Missing required fields" }, { status: 400 });
     }
 
-    const toAddress = process.env.CONTACT_TO || "techx@gmail.com";
+    const toAddress = process.env.CONTACT_TO || "techxsweb@gmail.com";
 
     const transporter = nodemailer.createTransport({
       host: process.env.SMTP_HOST,

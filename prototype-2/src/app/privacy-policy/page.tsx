@@ -4,7 +4,7 @@ import { FadeIn } from "@/components/FadeIn";
 import { TransitionLink } from "@/components/TransitionLink";
 
 export const metadata: Metadata = {
-  title: "Privacy Policy | TechX KE",
+  title: "Privacy Policy | TechXS KE",
   description:
     "Plain-language privacy policy covering AI usage, data practices, and rights (International + Kenya).",
 };

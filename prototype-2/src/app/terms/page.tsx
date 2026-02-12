@@ -4,7 +4,7 @@ import { FadeIn } from "@/components/FadeIn";
 import { TransitionLink } from "@/components/TransitionLink";
 
 export const metadata: Metadata = {
-  title: "Terms & Conditions | TechX KE",
+  title: "Terms & Conditions | TechXS KE",
   description:
     "Plain-language terms covering services, acceptable use, AI features, IP, and legal notices (International + Kenya).",
 };
@@ -17,7 +17,7 @@ export default function TermsPage() {
           Terms & Conditions
         </h1>
         <p className="max-w-3xl text-base leading-relaxed text-gray-300">
-          These terms explain your relationship with TechX KE when using our
+          These terms explain your relationship with TechXS KE when using our
           website, products, and services. We keep this plain and practical, with
           links to detailed sections.
         </p>

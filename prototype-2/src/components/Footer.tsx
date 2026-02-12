@@ -32,15 +32,15 @@ export const Footer = () => {
         {/* Bottom footer */}
         <div className="mt-16 flex flex-col items-center justify-between gap-6 border-t border-neutral-800 pt-8 md:flex-row">
           <p className="text-center text-sm text-gray-400">
-            © {new Date().getFullYear()} TechX KE. All rights reserved
+            © {new Date().getFullYear()} TechXS KE. All rights reserved
           </p>
           <TransitionLink
             href="/"
-            aria-label="TechX KE Home"
+            aria-label="TechXS KE Home"
             className="order-first md:order-none"
           >
             <span className="font-display text-xl font-bold tracking-wider text-white">
-              TECHX KE
+              TECHXS KE
             </span>
           </TransitionLink>
           <ul

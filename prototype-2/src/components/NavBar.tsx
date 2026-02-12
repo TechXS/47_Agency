@@ -47,7 +47,7 @@ export const NavBar = ({ settings }: NavBarProps) => {
           <div className="absolute left-1/2 -translate-x-1/2 transform">
             <TransitionLink href="/">
               <span className="font-display text-2xl font-bold tracking-wider text-white md:text-3xl">
-                TECHX KE
+                TECHXS KE
               </span>
             </TransitionLink>
           </div>

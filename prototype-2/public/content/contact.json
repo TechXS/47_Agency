@@ -11,7 +11,7 @@
   ],
   "hero_image": {
     "url": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=1200&h=800&fit=crop",
-    "alt": "Contact TechX KE"
+    "alt": "Contact TechXS KE"
   },
   "content": [
     {
@@ -29,11 +29,11 @@
     "project_placeholder": "Tell us about your project",
     "submit_text": "Send message"
   },
-  "meta_title": "Contact | TechX KE",
-  "meta_description": "Get in touch with TechX KE. Ready to transform your ideas into reality? We'd love to hear about your project.",
+  "meta_title": "Contact | TechXS KE",
+  "meta_description": "Get in touch with TechXS KE. Ready to transform your ideas into reality? We'd love to hear about your project.",
   "meta_image": {
     "url": "/cote-royale-og-image.png",
-    "alt": "Contact TechX KE"
+    "alt": "Contact TechXS KE"
   },
   "slices": []
 }

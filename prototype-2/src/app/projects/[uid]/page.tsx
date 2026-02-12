@@ -96,7 +96,7 @@ export async function generateMetadata({
 
   return {
     title: page.title + " | " + settings.site_title,
-    description: `Discover ${page.title}, a project by TechX KE.`,
+    description: `Discover ${page.title}, a project by TechXS KE.`,
     openGraph: {
       images: [{ url: asImageSrc(page.meta_image) ?? "" }],
     },

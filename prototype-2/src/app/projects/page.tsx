@@ -4,9 +4,21 @@ import { type Metadata } from "next";
 import { getAllProjects } from "@/lib/content";
 import { Bounded } from "@/components/Bounded";
 
+//export const metadata: Metadata = {
+//  title: "Projects",
+//  description: "Selected work and case studies",
+//};
+
 export const metadata: Metadata = {
-  title: "Projects",
-  description: "Selected work and case studies",
+  title: "TechXS KE Projects | AI & Web Development Case Studies in Kenya",
+  description: "Explore TechXS KE's portfolio: Scalable web apps, AI integrations, automation systems, and innovative solutions like tourism platforms and NLP tools for Kenyan businesses.",
+  // Bonus: Add more for rich results (as in your homepage)
+  keywords: ['AI projects Kenya', 'web development case studies Nairobi', 'digital agency portfolio', 'automation solutions Kenya'],
+  openGraph: {
+    title: "TechXS KE Projects",
+    description: "Discover our latest work in AI, web apps, and automation.",
+    images: [{ url: 'https://techxs.dpdns.org/icon.png' }],  // Add a custom OG image in /public
+  },
 };
 
 export default async function ProjectsIndexPage() {
